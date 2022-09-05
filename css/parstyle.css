@@ -1,0 +1,20 @@
+
+
+.topcolor{color:white; background-color:#AB8E66;}
+
+.inner {overflow: hidden;}
+.inner img {transition: all 1.5s ease;}
+.inner:hover img{transform: scale(1.1);}
+.card {background-color: rgba(220, 220, 220, 0.514);}
+.footc {background-color: rgba(220, 220, 220, 0.514); }
+.footc a:visited{color:black;}
+.footc a:hover{color: #AB8E66; font-weight: bold;}
+
+.card:hover{border: solid 1px #AB8E66;}
+
+.checked {
+  color: orange;
+}
+
+.btnmdl {margin-left: 73px;}
+.h5mdl {color: orange;}
